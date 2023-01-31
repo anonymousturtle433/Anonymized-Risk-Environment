@@ -2,7 +2,7 @@
 Gym environment for the risk game by hasbro, so far quite basic and unstable
 can be installed by "python setup.py install" 
 
-The code has been extended from the base repo - https://github.com/leoandeol/gym-risk
+The code has been extended from the following base repo - https://github.com/leoandeol/gym-risk
 
 # Installation
 The risk game is setup with 5 continents and 21 territories in total.
