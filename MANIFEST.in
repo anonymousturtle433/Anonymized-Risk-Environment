@@ -1,0 +1,2 @@
+include gym_risk/envs/game/display_utils/images/*
+include gym_risk/envs/game/display_utils/*.txt
