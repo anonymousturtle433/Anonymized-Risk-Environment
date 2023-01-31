@@ -27,7 +27,7 @@ There can be 4 phases in our RISK environment -
 0 - initilaize or draft <br />
 1 - reinforce  <br />
 2 - attack   <br />
-3 - reinforce   <br />
+3 - freemove   <br />
 
 An action is specified by a four-item tuple, i.e. < p,s,t,tr >. 
  1. The first item, p, specifies which type of action is being conducted, among the four possible phases in the game. 
